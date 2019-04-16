@@ -17,7 +17,7 @@
 	<br>
 	<br>
 	<br>
-	<a href="../addmoney.jsp">add money</a>
+	<a href="../addmoney.jsp">Diposite money</a>
 	<br>
 	<br>
 	<br>

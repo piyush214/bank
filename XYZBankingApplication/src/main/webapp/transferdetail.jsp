@@ -9,7 +9,7 @@
 </head>
 <body>
 <h1>   ${{AA.name}}  Your Account Balance Is ${{AA.balance}}  </h1>  
-<h1>   ${{BB.name}} Your Account Balance Is ${{BB.balance}}  </h1>
+<%-- <h1>   ${{BB.name}} Your Account Balance Is ${{BB.balance}}  </h1> --%>
 <a href="../home.jsp" >Home</a>
 </body>
 </html>
